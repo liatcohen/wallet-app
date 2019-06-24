@@ -1,0 +1,43 @@
+.historyItem{
+    background-color: #f2f2f2;
+    width: 500px;
+    height: 50px;;
+    margin: auto;
+    margin-bottom: 5px;
+    box-shadow: 5px 10px 18px #888888;
+    display: grid;
+    grid-template-columns: 4fr 2fr 1fr;
+    align-content: center;
+    justify-content: center;
+}
+
+p{
+    display: inline;
+    align-content: start;
+    justify-content: start;
+    padding: 0px;
+}
+
+.name-box{
+    font-size: 18px;
+    margin-top: 10px;
+    overflow: hidden;
+    text-align: start;
+    margin: auto;
+    margin-left: 24px;
+}
+
+#minus{
+    color: red;
+}
+
+#plus{
+    color: green;
+}
+.fas{
+    margin-top: 20px;
+}
+
+#amount{
+    font-weight: bold;
+}

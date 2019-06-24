@@ -1,0 +1,5 @@
+server/node_modules/
+
+client/wallet-client/node_modules
+
+.DS_store
